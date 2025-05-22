@@ -27,12 +27,12 @@ Este é um projeto de estudo e desenvolvimento de um jogo de Sudoku utilizando J
 
 ### 🎮 Etapa 3: Implementação das Funcionalidades
 
-- [ ] Gerar tabuleiro de Sudoku (valores fixos ou aleatórios)
-- [ ] Permitir entrada do usuário nos campos vazios
-- [ ] Verificação de jogada válida (linha, coluna, bloco)
-- [ ] Verificar se o Sudoku está resolvido
-- [ ] Implementar botão ou comando “Reiniciar jogo”
-- [ ] Criar interface gráfica (Terminal, Swing ou JavaFX)
+- [x] Gerar tabuleiro de Sudoku (valores fixos ou aleatórios)
+- [x] Permitir entrada do usuário nos campos vazios
+- [x] Verificação de jogada válida (linha, coluna, bloco)
+- [x] Verificar se o Sudoku está resolvido
+- [x] Implementar botão ou comando “Reiniciar jogo”
+- [x] Criar interface gráfica (Terminal, Swing ou JavaFX)
 
 ---
 
